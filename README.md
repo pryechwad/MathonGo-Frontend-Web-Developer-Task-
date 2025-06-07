@@ -55,8 +55,6 @@ Edit
 **Prathmesh Yechwad**  
 Full stack Developer | Frontend Developer | React.js | Tailwind | Zustand  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/prathmeshyechwad)
-
 ---
 
 ## 📝 Notes
