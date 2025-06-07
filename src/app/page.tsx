@@ -18,8 +18,8 @@ export default function Home() {
   }, [dispatch])
 
   return (
-    <div className="bg-white dark:bg-gray-900 flex flex-row justify-center w-full min-h-screen">
-      <div className="bg-white dark:bg-gray-900 w-full max-w-[1360px] relative flex">
+    <div className="bg-white dark:bg-gray-900 flex flex-col w-full min-h-screen overflow-x-hidden md:flex-row md:justify-center">
+      <div className="bg-white dark:bg-gray-900 w-full relative flex flex-col md:max-w-[1360px] md:flex-row">
         <Sidebar />
         <main className="flex flex-col w-full items-start bg-[#f2f5fb] dark:bg-gray-800 border border-solid border-[#eaedf1] dark:border-gray-700">
           <Header />
