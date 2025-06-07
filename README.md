@@ -53,8 +53,8 @@ Edit
 ## 🙋‍♂️ Author
 
 **Prathmesh Yechwad**  
-Frontend Developer | React.js | Tailwind | Zustand  
-📧 yechwadprathmesh@gmail.com  
+Full stack Developer | Frontend Developer | React.js | Tailwind | Zustand  
+
 🔗 [LinkedIn](https://www.linkedin.com/in/prathmeshyechwad)
 
 ---
